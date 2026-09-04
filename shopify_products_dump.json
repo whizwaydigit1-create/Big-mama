@@ -1,0 +1,700 @@
+{
+  "products": [
+    {
+      "id": 7063987093576,
+      "title": "Trinity Vitality Blend",
+      "handle": "trinity-vitality-blend",
+      "body_html": "<p><span>Daily Herbal Support for Liver, Kidney &amp; Blood Wellness</span></p>\n<p>\u00a0</p>\n<p><span>Trinity Vitality Blend is a thoughtfully crafted herbal formula designed to support the body\u2019s natural cleansing systems and everyday vitality. Made with a proprietary combination of herbs, this blend is formulated to support liver function, kidney wellness, blood circulation, and whole-body balance.</span></p>",
+      "published_at": "2026-05-28T12:09:10-05:00",
+      "created_at": "2026-05-28T11:55:09-05:00",
+      "updated_at": "2026-09-04T06:44:36-05:00",
+      "vendor": "Big Mama's Healing House",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 41140336853064,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "15.99",
+          "grams": 99,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 7063987093576,
+          "created_at": "2026-05-28T11:55:09-05:00",
+          "updated_at": "2026-09-04T06:44:36-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 32717630963784,
+          "created_at": "2026-05-28T11:55:28-05:00",
+          "position": 1,
+          "updated_at": "2026-05-28T12:04:31-05:00",
+          "product_id": 7063987093576,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0596/0541/8056/files/IMG-9392.heic?v=1779987871",
+          "width": 832,
+          "height": 1248
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7052710641736,
+      "title": "Healing the Gut The Ultimate Autism Blueprint",
+      "handle": "healing-the-gut-the-ultimate-autism-blueprint-copy",
+      "body_html": "<p>A parent-focused guide that explores how gut health influences behavior, development, and overall well-being in children with autism. Written by autism advocate and mother Hyrian Mitchell, this book provides a clear, step-by-step framework for addressing root causes rather than managing symptoms alone.</p>",
+      "published_at": "2026-05-13T09:02:07-05:00",
+      "created_at": "2026-05-13T09:02:07-05:00",
+      "updated_at": "2026-09-04T06:44:36-05:00",
+      "vendor": "Big Mama's Healing House",
+      "product_type": "",
+      "tags": [
+        "Autism",
+        "Diet Change",
+        "Gut to brain axis",
+        "Healing",
+        "Health",
+        "herbs",
+        "supplements"
+      ],
+      "variants": [
+        {
+          "id": 41106134696008,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "25.99",
+          "grams": 255,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 7052710641736,
+          "created_at": "2026-05-13T09:02:07-05:00",
+          "updated_at": "2026-09-04T06:44:36-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 32574362550344,
+          "created_at": "2026-04-27T20:14:54-05:00",
+          "position": 1,
+          "updated_at": "2026-04-27T20:14:57-05:00",
+          "product_id": 7052710641736,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0596/0541/8056/files/il_fullxfull.7519478900_cbp0.jpg?v=1777338897",
+          "width": 411,
+          "height": 522
+        },
+        {
+          "id": 32574362583112,
+          "created_at": "2026-04-27T20:14:54-05:00",
+          "position": 2,
+          "updated_at": "2026-04-27T20:14:57-05:00",
+          "product_id": 7052710641736,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0596/0541/8056/files/il_fullxfull.7567425765_35yk.jpg?v=1777338897",
+          "width": 393,
+          "height": 489
+        },
+        {
+          "id": 32574362615880,
+          "created_at": "2026-04-27T20:14:54-05:00",
+          "position": 3,
+          "updated_at": "2026-04-27T20:14:56-05:00",
+          "product_id": 7052710641736,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0596/0541/8056/files/il_fullxfull.7519492536_4hxc.jpg?v=1777338896",
+          "width": 384,
+          "height": 487
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7047826309192,
+      "title": "Apex Trio Herbal Blend",
+      "handle": "apex-trio-herbal-blend",
+      "body_html": "<p data-start=\"79\" data-end=\"140\">Black Walnut Hull + Wormwood + Clove</p>\n<p data-start=\"142\" data-end=\"477\">A traditional herbal blend formulated with three powerful botanicals historically used to support intestinal cleansing and microbial balance. This concentrated tincture is designed to complement gut protocols by helping create an internal environment that is less hospitable to unwanted organisms while supporting digestive function.</p>\n<p data-start=\"142\" data-end=\"477\">Add 1 tsp of dried herbs to 1 cup of water.\u00a0 Bring to a boil, remove from heat and let steep for 10 - 15 minutes.</p>\n<p data-start=\"142\" data-end=\"477\">Take on an empty stomach or between meals.</p>\n<p data-start=\"885\" data-end=\"957\">This traditional trio works together to provide targeted herbal support:</p>\n<p><strong data-start=\"961\" data-end=\"992\">Supports parasite cleansing</strong> using botanicals historically used for intestinal organisms</p>\n<p><strong data-start=\"1057\" data-end=\"1087\">Promotes microbial balance</strong> within the digestive tract</p>\n<p><strong data-start=\"1119\" data-end=\"1159\">Provides concentrated herbal potency</strong> in an easy-to-use liquid form</p>\n<p><strong data-start=\"1194\" data-end=\"1225\">Supports digestive function</strong> during cleansing protocols</p>\n<p data-start=\"1256\" data-end=\"1451\">Black walnut hull and wormwood have long histories in herbal practices for intestinal cleansing, while clove is included for its strong aromatic compounds that support a balanced gut environment.</p>\n<p data-start=\"1458\" data-end=\"1528\"><strong data-start=\"1458\" data-end=\"1469\">Storage</strong><br data-start=\"1469\" data-end=\"1472\">Store in a cool, dark place. Keep bottle tightly sealed.</p>\n<p data-start=\"1595\" data-end=\"1924\"><strong data-start=\"1595\" data-end=\"1614\">Important Notes</strong><br data-start=\"1614\" data-end=\"1617\">Not for use during pregnancy or breastfeeding. Avoid if you have a history of seizures. Discontinue use if adverse effects occur. Consult a healthcare professional before use if you have any medical condition.</p>",
+      "published_at": "2026-04-29T14:23:06-05:00",
+      "created_at": "2026-04-29T14:23:06-05:00",
+      "updated_at": "2026-09-04T06:44:36-05:00",
+      "vendor": "Big Mama's Healing House",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 41092425744456,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "15.99",
+          "grams": 99,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 7047826309192,
+          "created_at": "2026-04-29T14:23:06-05:00",
+          "updated_at": "2026-09-04T06:44:36-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 32575669928008,
+          "created_at": "2026-04-29T14:31:32-05:00",
+          "position": 1,
+          "updated_at": "2026-04-29T14:31:34-05:00",
+          "product_id": 7047826309192,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0596/0541/8056/files/ChatGPT_Image_Apr_29_2026_02_31_11_PM.png?v=1777491094",
+          "width": 1024,
+          "height": 1536
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7047751303240,
+      "title": "Let That Shit Out Herbal Blend",
+      "handle": "let-that-shit-out-herbal-blend",
+      "body_html": "<p data-end=\"181\" data-start=\"160\" data-section-id=\"10268ts\"><span role=\"text\"><strong data-end=\"181\" data-start=\"166\">INGREDIENTS subject to change at any time.</strong></span></p>\n<p data-end=\"181\" data-start=\"160\" data-section-id=\"10268ts\">This powerful blend includes soothes digestive inflammation and promotes relaxation, stimulates bile flow and eases cramping, reduces bloating and gas while supporting natural movement, warms the digestive tract and encourages healthy transit and acts as a gentle natural laxative, supporting liver function and regularity.</p>\n<p data-end=\"245\" data-start=\"182\"><span role=\"text\"><strong data-end=\"272\" data-start=\"258\">DIRECTIONS</strong></span></p>\n<p data-end=\"352\" data-start=\"273\">Add <strong data-end=\"286\" data-start=\"277\">1 tsp</strong> to 1 cup hot water.<br data-end=\"309\" data-start=\"306\">Steep <strong data-end=\"332\" data-start=\"315\">10\u201315 minutes</strong>, strain, and drink.</p>\n<p data-end=\"352\" data-start=\"273\"><strong>1 cup daily, as needed for digestive support.</strong></p>\n<p data-end=\"352\" data-start=\"273\">Store in a cool, dry place away from light.</p>\n<p data-end=\"352\" data-start=\"273\"><span role=\"text\"><strong data-end=\"512\" data-start=\"498\">DISCLAIMER</strong></span></p>\n<p data-end=\"667\" data-start=\"513\">This product is not intended to diagnose, treat, cure, or prevent any disease.<br data-end=\"594\" data-start=\"591\">Consult a healthcare professional if pregnant, nursing, or on medication.</p>",
+      "published_at": "2026-04-28T22:38:25-05:00",
+      "created_at": "2026-04-28T22:20:51-05:00",
+      "updated_at": "2026-09-04T06:44:36-05:00",
+      "vendor": "Big Mama's Healing House",
+      "product_type": "",
+      "tags": [
+        "Autism",
+        "Detox",
+        "Supplements"
+      ],
+      "variants": [
+        {
+          "id": 41092171595848,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "13.99",
+          "grams": 99,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 7047751303240,
+          "created_at": "2026-04-28T22:20:52-05:00",
+          "updated_at": "2026-09-04T06:44:36-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 32575180111944,
+          "created_at": "2026-04-28T22:37:19-05:00",
+          "position": 1,
+          "updated_at": "2026-04-28T22:37:21-05:00",
+          "product_id": 7047751303240,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0596/0541/8056/files/hyper-realistic-product-photo-of-a-natural-herbal-tea-blend-in-a-plain-matte-kraft-cardboard-color-mylar-stand-up-pouch-elegant-aesthetic-mylar-bag-visible-top-to-bottom-sitting-on-a.png?v=1777433841",
+          "width": 832,
+          "height": 1248
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7047506624584,
+      "title": "Gut Blanket",
+      "handle": "coffee-and-tea-example-product-1",
+      "body_html": "<p data-start=\"77\" data-end=\"127\"><strong data-start=\"77\" data-end=\"127\">Slippery Elm &amp; Marshmallow Root Soothing Blend</strong></p>\n<p data-start=\"129\" data-end=\"442\">A gentle, grounding herbal blend traditionally used to support and comfort the digestive and respiratory systems. Slippery elm and marshmallow root are both known for their naturally soothing, mucilage-rich properties that coat and calm irritated tissues, making this blend a staple for everyday wellness rituals.</p>\n<p data-start=\"444\" data-end=\"564\">This formula is ideal for those seeking gentle internal support, especially when the body needs a soft, nurturing touch.</p>\n<h3 data-section-id=\"248b9x\" data-start=\"566\" data-end=\"586\"><span role=\"text\"><strong data-start=\"570\" data-end=\"586\">Key Benefits</strong></span></h3>\n<p>Traditionally used to soothe and calm the digestive tract</p>\n<p>Supports a healthy, comfortable gut environment</p>\n<p>Naturally rich in plant mucilage that helps coat and protect internal tissues</p>\n<p>Gentle support for throat and respiratory comfort</p>\n<p>Ideal for sensitive systems and daily wellness routines</p>\n<h3 data-section-id=\"tuq3va\" data-start=\"898\" data-end=\"917\"><span role=\"text\"><strong data-start=\"902\" data-end=\"917\">How to Take</strong></span></h3>\n<p data-start=\"918\" data-end=\"1051\">Add 1 teaspoon to 8\u201312 oz of water and refrigerate overnight.</p>\n<p data-start=\"918\" data-end=\"1051\">Add 1 teaspoon to 8\u201312 oz of warm (not hot) water and stir well. Let sit for 2\u20133 minutes to activate the natural mucilage, then drink slowly.</p>\n<p data-start=\"1053\" data-end=\"1066\">Can be taken:</p>\n<ul data-start=\"1067\" data-end=\"1160\">\n<li data-section-id=\"1vifie6\" data-start=\"1067\" data-end=\"1096\">1\u20132 times daily as needed</li>\n<li data-section-id=\"gey38d\" data-start=\"1097\" data-end=\"1160\">Best taken between meals or before bed for soothing support</li>\n</ul>\n<p data-start=\"1162\" data-end=\"1241\"><em data-start=\"1162\" data-end=\"1241\">Mix thoroughly\u2014this blend naturally thickens when activated with liquid.</em></p>\n<h3 data-section-id=\"1byumnk\" data-start=\"1243\" data-end=\"1262\"><span role=\"text\"><strong data-start=\"1247\" data-end=\"1262\">Ingredients</strong></span></h3>\n<p data-start=\"1263\" data-end=\"1314\">Organic Slippery Elm Bark, Organic Marshmallow Root</p>\n<h3 data-section-id=\"1cvq8f\" data-start=\"1316\" data-end=\"1337\"><span role=\"text\"><strong data-start=\"1320\" data-end=\"1337\">Wellness Note</strong></span></h3>\n<p data-start=\"1338\" data-end=\"1496\">Use within three days. This is a traditional herbal preparation used for centuries in herbal wellness practices. It is not intended to diagnose, treat, cure, or prevent any disease.</p>",
+      "published_at": "2026-04-28T22:17:33-05:00",
+      "created_at": "2026-04-27T18:06:32-05:00",
+      "updated_at": "2026-09-04T06:44:36-05:00",
+      "vendor": "Big Mama's Healing House",
+      "product_type": "",
+      "tags": [
+        "Sample Product"
+      ],
+      "variants": [
+        {
+          "id": 41090915205192,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "10.99",
+          "grams": 85,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 7047506624584,
+          "created_at": "2026-04-27T18:06:32-05:00",
+          "updated_at": "2026-09-04T06:44:36-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 32575160549448,
+          "created_at": "2026-04-28T21:59:23-05:00",
+          "position": 1,
+          "updated_at": "2026-04-28T21:59:24-05:00",
+          "product_id": 7047506624584,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0596/0541/8056/files/hyper-realistic-product-photo-of-a-natural-herbal-tea-blend-in-a-plain-matte-kraft-cardboard-color-mylar-stand-up-pouch-full-image-of-pouch-showing-elegant-aesthetic-high-end-wellness.png?v=1777431564",
+          "width": 832,
+          "height": 1248
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7047506788424,
+      "title": "Apex Trio Tincture",
+      "handle": "coffee-and-tea-example-product-2",
+      "body_html": "<p data-start=\"79\" data-end=\"140\">Black Walnut Hull + Wormwood + Clove</p>\n<p data-start=\"142\" data-end=\"477\">A traditional herbal extract formulated with three powerful botanicals historically used to support intestinal cleansing and microbial balance. This concentrated tincture is designed to complement gut protocols by helping create an internal environment that is less hospitable to unwanted organisms while supporting digestive function.</p>\n<p data-start=\"479\" data-end=\"558\"><strong data-start=\"479\" data-end=\"494\">Ingredients</strong><br data-start=\"494\" data-end=\"497\">Black walnut hull, wormwood, clove, alcohol (extraction base)</p>\n<p data-start=\"560\" data-end=\"752\">Take <strong data-start=\"583\" data-end=\"624\">10\u201315 drops in water 2 times daily or 15\u201330 drops in water 1 time daily.</strong><br data-start=\"625\" data-end=\"628\">Start with <strong data-start=\"639\" data-end=\"661\">5 drops once daily</strong> to assess tolerance, then increase as needed.<br data-start=\"707\" data-end=\"710\">Take on an empty stomach or between meals.</p>\n<p data-start=\"885\" data-end=\"957\">This traditional trio works together to provide targeted herbal support:</p>\n<p><strong data-start=\"961\" data-end=\"992\">Supports parasite cleansing</strong> using botanicals historically used for intestinal organisms</p>\n<p><strong data-start=\"1057\" data-end=\"1087\">Promotes microbial balance</strong> within the digestive tract</p>\n<p><strong data-start=\"1119\" data-end=\"1159\">Provides concentrated herbal potency</strong> in an easy-to-use liquid form</p>\n<p><strong data-start=\"1194\" data-end=\"1225\">Supports digestive function</strong> during cleansing protocols</p>\n<p data-start=\"1256\" data-end=\"1451\">Black walnut hull and wormwood have long histories in herbal practices for intestinal cleansing, while clove is included for its strong aromatic compounds that support a balanced gut environment.</p>\n<p data-start=\"1458\" data-end=\"1528\"><strong data-start=\"1458\" data-end=\"1469\">Storage</strong><br data-start=\"1469\" data-end=\"1472\">Store in a cool, dark place. Keep bottle tightly sealed.</p>\n<p data-start=\"1530\" data-end=\"1588\"><strong data-start=\"1530\" data-end=\"1544\">Shelf Life</strong><br data-start=\"1544\" data-end=\"1547\">Up to <strong data-start=\"1553\" data-end=\"1566\">2\u20133 years</strong> when stored properly.</p>\n<p data-start=\"1595\" data-end=\"1924\"><strong data-start=\"1595\" data-end=\"1614\">Important Notes</strong><br data-start=\"1614\" data-end=\"1617\">Not for use during pregnancy or breastfeeding. Avoid if you have a history of seizures, liver conditions, or are taking psychiatric or seizure medications. Discontinue use if adverse effects occur. Consult a healthcare professional before use if you have any medical condition.</p>",
+      "published_at": "2026-04-28T22:15:47-05:00",
+      "created_at": "2026-04-27T18:06:34-05:00",
+      "updated_at": "2026-09-04T06:44:36-05:00",
+      "vendor": "Big Mama's Healing House",
+      "product_type": "",
+      "tags": [
+        "Sample Product"
+      ],
+      "variants": [
+        {
+          "id": 41090915237960,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "13.99",
+          "grams": 85,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 7047506788424,
+          "created_at": "2026-04-27T18:06:34-05:00",
+          "updated_at": "2026-09-04T06:44:36-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 32573287825480,
+          "created_at": "2026-04-27T18:32:22-05:00",
+          "position": 1,
+          "updated_at": "2026-04-27T18:32:23-05:00",
+          "product_id": 7047506788424,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0596/0541/8056/files/IMG_2614_880918f3-278b-4cd1-9109-cb25d4eb5e19.jpg?v=1777332743",
+          "width": 1284,
+          "height": 1690
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7047506952264,
+      "title": "Parasite Buster",
+      "handle": "coffee-and-tea-example-product-3",
+      "body_html": "<p data-start=\"76\" data-end=\"105\"><strong data-start=\"76\" data-end=\"105\">Seed Cleanse Powder Blend</strong></p>\n<p data-start=\"107\" data-end=\"445\">A traditional, food-based blend of nutrient-dense seeds crafted to support gut health, digestion, and the body\u2019s natural ability to eliminate unwanted organisms. This formula combines fiber-rich and botanically active seeds to help create an intestinal environment that is less supportive of parasites while promoting regular elimination.</p>\n<p data-start=\"447\" data-end=\"576\"><strong data-start=\"447\" data-end=\"462\">Ingredients are subject to change at any time</strong><br data-start=\"462\" data-end=\"465\">Pumpkin seed, flax seed, chia seed, hulled sesame seed, fennel seed, dried papaya seed, black cumin seed and clove.</p>\n<p data-start=\"989\" data-end=\"1083\">This blend works through a combination of mechanical cleansing and traditional herbal support:</p>\n<p><strong data-start=\"1087\" data-end=\"1118\">Supports parasite cleansing</strong> by helping create an intestinal environment that is less hospitable to unwanted organisms</p>\n<p><strong data-start=\"1213\" data-end=\"1237\">Promotes elimination</strong> with natural fiber to help move waste through the digestive tract</p>\n<p><strong data-start=\"1308\" data-end=\"1332\">Supports gut balance</strong> by combining seeds traditionally used for digestive and microbial support</p>\n<p><strong data-start=\"1411\" data-end=\"1451\">Helps reduce bloating and discomfort</strong> with fennel and fiber-rich ingredients</p>\n<p><strong data-start=\"1495\" data-end=\"1523\">Provides mineral support</strong> for overall gut and immune health</p>\n<p>Take <strong data-start=\"601\" data-end=\"636\">1 teaspoon once daily with food</strong> (breakfast or lunch). Mix into applesauce, yogurt, oatmeal, or a smoothie and drink a full glass of water.<br data-start=\"743\" data-end=\"746\">If sensitive, start with <strong data-start=\"771\" data-end=\"810\">1/2 teaspoon for the first 2\u20133 days</strong>, then increase to 1 teaspoon daily as tolerated.</p>",
+      "published_at": "2026-04-28T22:14:23-05:00",
+      "created_at": "2026-04-27T18:06:36-05:00",
+      "updated_at": "2026-09-04T06:44:36-05:00",
+      "vendor": "Big Mama's Healing House",
+      "product_type": "",
+      "tags": [
+        "Sample Product"
+      ],
+      "variants": [
+        {
+          "id": 41090915401800,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "13.99",
+          "grams": 85,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 7047506952264,
+          "created_at": "2026-04-27T18:06:36-05:00",
+          "updated_at": "2026-09-04T06:44:36-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 32573286350920,
+          "created_at": "2026-04-27T18:25:51-05:00",
+          "position": 1,
+          "updated_at": "2026-04-27T18:25:52-05:00",
+          "product_id": 7047506952264,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0596/0541/8056/files/IMG_2615.jpg?v=1777332352",
+          "width": 1284,
+          "height": 1685
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7047506985032,
+      "title": "Oregano and Black Seed Oil",
+      "handle": "coffee-and-tea-example-product-4",
+      "body_html": "<p data-start=\"481\" data-end=\"788\">A powerful herbal blend combining black seed oil and oregano oil, traditionally used to support immune health, digestion, and overall wellness. Black seed oil is rich in antioxidants and supports the body\u2019s natural defenses, while oregano oil contains natural compounds that help maintain microbial balance.</p>\n<p data-start=\"481\" data-end=\"788\"><strong data-start=\"1053\" data-end=\"1070\">Adult Serving Size:</strong> 1 mL (20 drops)</p>",
+      "published_at": "2026-04-28T22:13:41-05:00",
+      "created_at": "2026-04-27T18:06:38-05:00",
+      "updated_at": "2026-09-04T06:44:36-05:00",
+      "vendor": "Big Mama's Healing House",
+      "product_type": "",
+      "tags": [
+        "Sample Product"
+      ],
+      "variants": [
+        {
+          "id": 41090915434568,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "9.99",
+          "grams": 85,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 7047506985032,
+          "created_at": "2026-04-27T18:06:38-05:00",
+          "updated_at": "2026-09-04T06:44:36-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 32573283139656,
+          "created_at": "2026-04-27T18:16:37-05:00",
+          "position": 1,
+          "updated_at": "2026-04-27T18:16:39-05:00",
+          "product_id": 7047506985032,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0596/0541/8056/files/the-herbs-oregano-and-black-seed-sitting-next-to-a-closed-amber-droppler-with-the-top-with-no-word-or-logo.png?v=1777331799",
+          "width": 1024,
+          "height": 1024
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7047562330184,
+      "title": "Sacred Cooling Tea",
+      "handle": "example-product-copy",
+      "body_html": "<p class=\"isSelectedEnd\">A traditional herbal blend crafted to support the body during fever by promoting gentle sweating, easing discomfort, calming the nervous system, and helping the body move through the fever cycle more comfortably.</p>\n<p class=\"isSelectedEnd\"><span><strong>Ingredients: Subject to Change at any time<br></strong></span></p>\n<p class=\"isSelectedEnd\"><span>Achillea millefolium, Mentha piperita, Cymbopogon citratus, Zingiber officinale, Nepeta cataria</span><span></span></p>\n<p class=\"isSelectedEnd\"><strong><span>Directions:</span></strong><br><span>Add 1 teaspoon of tea blend to 1 cup of hot water. Cover and steep for 10\u201315 minutes. Strain and enjoy warm. Use up to 2\u20133 times daily as needed.</span></p>\n<p class=\"isSelectedEnd\"><strong><span>Caution:</span></strong><br><span>Do not use if pregnant or nursing. Consult a healthcare professional before use if taking blood thinners, or. Not intended for young children without professional guidance.</span></p>\n<p class=\"isSelectedEnd\"><strong><span>Storage:</span></strong><br><span>Store in a cool, dry place away from direct sunlight.</span></p>\n<p><strong><span>Disclaimer:</span></strong><br><span>These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.</span></p>",
+      "published_at": "2026-04-28T22:13:03-05:00",
+      "created_at": "2026-04-27T18:42:23-05:00",
+      "updated_at": "2026-09-04T06:44:36-05:00",
+      "vendor": "Big Mama's Healing House",
+      "product_type": "",
+      "tags": [
+        "Sample Product"
+      ],
+      "variants": [
+        {
+          "id": 41091214442568,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "11.99",
+          "grams": 99,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 7047562330184,
+          "created_at": "2026-04-27T18:42:23-05:00",
+          "updated_at": "2026-09-04T06:44:36-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 32575148392520,
+          "created_at": "2026-04-28T21:32:56-05:00",
+          "position": 1,
+          "updated_at": "2026-04-28T21:32:58-05:00",
+          "product_id": 7047562330184,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0596/0541/8056/files/Apr_28_2026_09_32_28_PM.png?v=1777429978",
+          "width": 1122,
+          "height": 1402
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7047628816456,
+      "title": "Daily Tracking Journal created to help parents record changes while detoxing, deworming and giving supplements to children with autism",
+      "handle": "daily-tracking-journal-created-to-help-63202",
+      "body_html": "<p>Diet, detox and adding supplements is the fastest way to clear up the Vagus Nerve (gut to brain axis) in children with autism. Keeping track of the way your child responds when introduced to new foods, herbs and supplements help to map out how to reduce ASD symptoms.</p>",
+      "published_at": "2026-04-28T22:12:27-05:00",
+      "created_at": "2026-04-27T20:14:42-05:00",
+      "updated_at": "2026-09-04T06:44:36-05:00",
+      "vendor": "Big Mama's Healing House",
+      "product_type": "",
+      "tags": [
+        "Autism",
+        "Detox",
+        "Diet",
+        "Journal",
+        "Supplements"
+      ],
+      "variants": [
+        {
+          "id": 41091691315272,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": false,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "9.99",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 7047628816456,
+          "created_at": "2026-04-27T20:14:42-05:00",
+          "updated_at": "2026-09-04T06:44:36-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 32574362484808,
+          "created_at": "2026-04-27T20:14:42-05:00",
+          "position": 1,
+          "updated_at": "2026-04-27T20:14:44-05:00",
+          "product_id": 7047628816456,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0596/0541/8056/files/il_fullxfull.7495897074_554b.jpg?v=1777338884",
+          "width": 365,
+          "height": 475
+        },
+        {
+          "id": 32574362517576,
+          "created_at": "2026-04-27T20:14:42-05:00",
+          "position": 2,
+          "updated_at": "2026-04-27T20:14:44-05:00",
+          "product_id": 7047628816456,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0596/0541/8056/files/il_fullxfull.7543829509_74d3.jpg?v=1777338884",
+          "width": 359,
+          "height": 469
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7047628849224,
+      "title": "Healing the Gut The Ultimate Autism Blueprint E-Book",
+      "handle": "healing-the-gut-the-ultimate-autism-05764",
+      "body_html": "<p>A parent-focused guide that explores how gut health influences behavior, development, and overall well-being in children with autism. Written by autism advocate and mother Hyrian Mitchell, this book provides a clear, step-by-step framework for addressing root causes rather than managing symptoms alone.</p>",
+      "published_at": "2026-04-28T22:11:50-05:00",
+      "created_at": "2026-04-27T20:14:54-05:00",
+      "updated_at": "2026-09-04T06:44:36-05:00",
+      "vendor": "Big Mama's Healing House",
+      "product_type": "",
+      "tags": [
+        "Autism",
+        "Diet Change",
+        "Gut to brain axis",
+        "Healing",
+        "Health",
+        "herbs",
+        "supplements"
+      ],
+      "variants": [
+        {
+          "id": 41091691348040,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": false,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "12.99",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 7047628849224,
+          "created_at": "2026-04-27T20:14:55-05:00",
+          "updated_at": "2026-09-04T06:44:36-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 32574362550344,
+          "created_at": "2026-04-27T20:14:54-05:00",
+          "position": 1,
+          "updated_at": "2026-04-27T20:14:57-05:00",
+          "product_id": 7047628849224,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0596/0541/8056/files/il_fullxfull.7519478900_cbp0.jpg?v=1777338897",
+          "width": 411,
+          "height": 522
+        },
+        {
+          "id": 32574362583112,
+          "created_at": "2026-04-27T20:14:54-05:00",
+          "position": 2,
+          "updated_at": "2026-04-27T20:14:57-05:00",
+          "product_id": 7047628849224,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0596/0541/8056/files/il_fullxfull.7567425765_35yk.jpg?v=1777338897",
+          "width": 393,
+          "height": 489
+        },
+        {
+          "id": 32574362615880,
+          "created_at": "2026-04-27T20:14:54-05:00",
+          "position": 3,
+          "updated_at": "2026-04-27T20:14:56-05:00",
+          "product_id": 7047628849224,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0596/0541/8056/files/il_fullxfull.7519492536_4hxc.jpg?v=1777338896",
+          "width": 384,
+          "height": 487
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    }
+  ]
+}

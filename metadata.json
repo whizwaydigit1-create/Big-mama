@@ -1,0 +1,6 @@
+{
+  "name": "Big Mama's Healing House",
+  "description": "Herbal tea blends, tinctures and oils. Calming blends and natural remedies for ASD. Healing Starts At Home.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
